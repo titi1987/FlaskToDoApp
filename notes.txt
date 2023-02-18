@@ -1,1 +1,13 @@
+Test
+Task app with sqlite
+Import libraries
+
+
+Initiate db from terminal (instance folder)
+flask shell
+from app import db
+db.create_all()
+
+
+
 
